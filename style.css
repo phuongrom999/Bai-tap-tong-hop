@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.warrap{
+    width: 1600px;
+    margin: 0 auto;
+
+}
+.container-top{
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    text-align: center;
+    padding-right: 10px;
+}
+
+.container-title{
+
+    justify-content: center;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #dad9d9;
+}
+.titile{
+    height: 90px;
+}
+
+.container-menu{
+    height: 60px;
+    display: flex;
+    align-items: center;
+   
+}
+.menu{
+    margin-left: 50px;
+}
+.menu ul li{
+float: left;
+margin-left: 40px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.container-sub-banner{
+   
+    height: 400px;
+ 
+}
+.sub-banner{
+    display: flex;
+    justify-content: center;
+
+}
+.sub-banner img{
+    margin: 22px 20px;
+}
+
+.container-product{
+    height: 650px;
+   
+}
+
+.product1{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.item{
+    margin: 0 50px;
+    width: 170px;
+    padding-top: 20px;
+    text-align: center;
+    border: 1.5px solid #e2e2e2;
+}
+
+.product2{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.container-footer{
+    height: 170px;
+   border-bottom: 1px solid #e2e2e2;
+   width: 1200px;
+   margin-left: 180px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    height:200px;
+    
+    
+}
+.follow-us{
+  margin-right: 200px;
+  text-align: center;
+}
+.item-footer{
+    margin-right: 200px;
+}
+.chot{
+    margin-top: 10px;
+}
+.input{
+    margin-left: 200px;
+    display: inline;
+}
+.thietke{
+    display: inline;
+    margin-left: 300px;
+}
